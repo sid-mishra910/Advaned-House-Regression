@@ -1,2 +1,3 @@
-# Advaned-House-Regression
+# House Prices: Advanced Regression Techniques
 Kaggle Competition
+
